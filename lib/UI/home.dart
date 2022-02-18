@@ -4,11 +4,11 @@ myapp() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: Text("Hello World!"),
+        title: Text("Flutter App"),
         centerTitle: true,
       ),
       body: Center(
-        child: Text("Hello Ninjas"),
+        child: Text("This is a simple Project"),
       ),
     ),
   ));
